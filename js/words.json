@@ -1,0 +1,158 @@
+{
+    "facil":[
+        {
+            "palavra":"maça",
+            "letras":["m","a","ç","a"],
+            "dica":"uma fruta vermelha"
+        },
+        {
+            "palavra":"banana",
+            "letras":["b","a","n","a","n","a"],
+            "dica":"uma fruta amarela"
+        },
+        {
+            "palavra":"azul",
+            "letras":["a","z","u","l"],
+            "dica":"cor do ceu"
+        },
+        {
+            "palavra":"verde",
+            "letras":["v","e","r","d","e"],
+            "dica":"cor da grama"
+        },
+        {
+            "palavra":"rato",
+            "letras":["r","a","t","o"],
+            "dica":"gosta de queijo"
+        },
+        {
+            "palavra":"galo",
+            "letras":["g","a","l","o"],
+            "dica":"canta de manhã"
+        },
+        {
+            "palavra":"bolsa",
+            "letras":["b","o","l","s","a"],
+            "dica":"serve para guardar coisas"
+        },
+        {
+            "palavra":"batata",
+            "letras":["b","a","t","a","t","a"],
+            "dica":"muito boa frita"
+        },
+        {
+            "palavra":"agua",
+            "letras":["a","g","u","a"],
+            "dica":"sem ela ninguem vive"
+        },
+        {
+            "palavra":"tijolo",
+            "letras":["t","i","j","o","l","o"],
+            "dica":"serve para construir casas"
+        }
+    ],
+    "medio":[
+        {
+            "palavra":"rachadura",
+            "letras":["r","a","c","h","a","d","u","r","a"],
+            "dica":"algo que está partindo"
+        },
+        {
+            "palavra":"coquetel",
+            "letras":["c","o","q","u","e","t","e","l"],
+            "dica":"bebida alcoolica"
+        },
+        {
+            "palavra":"submerso",
+            "letras":["s","u","b","m","e","r","s","o"],
+            "dica":"estado do titanic"
+        },
+        {
+            "palavra":"cachorro",
+            "letras":["c","a","c","h","o","r","r","o"],
+            "dica":"melhor amigo do homem"
+        },
+        {
+            "palavra":"chocalho",
+            "letras":["c","h","o","c","a","l","h","o"],
+            "dica":"instrumento musical"
+        },
+        {
+            "palavra":"hambúrguer",
+            "letras":["h","a","m","b","ú","r","g","u","e","r"],
+            "dica":"feito de carne"
+        },
+        {
+            "palavra":"pistoleiro",
+            "letras":["p","i","s","t","o","l","e","i","r","o"],
+            "dica":"pago para matar"
+        },
+        {
+            "palavra":"chaminé",
+            "letras":["c","h","a","m","i","n","é"],
+            "dica":"solta fumaça"
+        },
+        {
+            "palavra":"requeijão",
+            "letras":["r","e","q","u","e","i","j","ã","o"],
+            "dica":"derivado do leite"
+        },
+        {
+            "palavra":"betoneira",
+            "letras":["b","e","t","o","n","e","i","r","a"],
+            "dica":"usado em contruções"
+        }
+    ],
+    "dificil":[
+        {
+            "palavra":"obséquio",
+            "letras":["o","b","s","é","q","u","i","o"],
+            "dica":"tratar agradavelmente"
+        },
+        {
+            "palavra":"castiçal",
+            "letras":["c","a","s","t","i","ç","a","l"],
+            "dica":"utensílio para velas"
+        },
+        {
+            "palavra":"trevudar",
+            "letras":["t","r","e","v","u","d","a","r"],
+            "dica":"pagar imposto"
+        },
+        {
+            "palavra":"ceroula",
+            "letras":["c","e","r","o","u","l","a"],
+            "dica":"roupa de baixo"
+        },
+        {
+            "palavra":"assunar",
+            "letras":["a","s","s","u","n","a","r"],
+            "dica":"juntar"
+        },
+        {
+            "palavra":"chistoso",
+            "letras":["c","h","i","s","t","o","s","o"],
+            "dica":"brincalhão, divertido"
+        },
+        {
+            "palavra":"belicoso",
+            "letras":["b","e","l","i","c","o","s","o"],
+            "dica":"agressivo, guerreiro"
+        },
+        {
+            "palavra":"percúlio",
+            "letras":["p","e","r","c","ú","l","i","o"],
+            "dica":"sinônimo de dinheiro"
+        },
+        {
+            "palavra":"loquaz",
+            "letras":["l","o","q","u","a","z"],
+            "dica":"tagarela"
+        },
+        {
+            "palavra":"ufanismo",
+            "letras":["u","f","a","n","i","s","m","o"],
+            "dica":"nacionalismo"
+        }
+    ]
+}
